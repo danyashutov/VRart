@@ -54,11 +54,11 @@
 ## Оборудование для проекта
 
 | Наименование | Стоимость |
+|-----|-----|
+| VR шлем Oculus Quest 2 | - |
 
 ## Видео проекта
 https://drive.google.com/file/d/1WzrrH8szBsPotCrmfPCE4SkTgomWq0Vv/view 
-|-----|-----|
-| VR шлем Oculus Quest 2 | - |
 
 ## Аудитория для работы
 
